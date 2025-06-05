@@ -5,6 +5,5 @@ google-api-python-client
 matplotlib
 matplotlib
 scikit-learn
-collections
 urlib
 pandas

@@ -7,3 +7,6 @@ re
 io
 matplotlib
 sklearn
+collections
+urlib
+pandas

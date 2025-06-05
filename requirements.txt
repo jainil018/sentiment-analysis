@@ -4,7 +4,7 @@ nltk
 google-api-python-client
 matplotlib
 matplotlib
-sklearn
+scikit-learn
 collections
 urlib
 pandas

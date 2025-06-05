@@ -32,10 +32,3 @@ This Flask-based web app allows users to input a YouTube video URL and analyzes 
 
 - Python 3.8+
 - YouTube Data API Key (place it in the code)
-
-### 🔧 Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/youtube-sentiment-analyzer.git
-   cd youtube-sentiment-analyzer

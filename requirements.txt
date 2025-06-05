@@ -3,3 +3,7 @@ joblib
 nltk
 google-api-python-client
 matplotlib
+re
+io
+matplotlib
+sklearn
